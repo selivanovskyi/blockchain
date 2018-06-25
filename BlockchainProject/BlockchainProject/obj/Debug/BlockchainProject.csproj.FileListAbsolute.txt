@@ -24,3 +24,6 @@ D:\CsharpComp\BlockchainProject\BlockchainProject\obj\Debug\BlockchainProject.ex
 D:\CsharpComp\BlockchainProject\BlockchainProject\obj\Debug\BlockchainProject.pdb
 D:\CsharpComp\BlockchainProject\BlockchainProject\bin\Debug\Nethereum.Geth.dll
 D:\CsharpComp\BlockchainProject\BlockchainProject\bin\Debug\Nethereum.StandardTokenEIP20.dll
+D:\CsharpComp\blockchain\BlockchainProject\BlockchainProject\bin\Debug\BlockchainProject.exe.config
+D:\CsharpComp\blockchain\BlockchainProject\BlockchainProject\obj\Debug\BlockchainProject.exe
+D:\CsharpComp\blockchain\BlockchainProject\BlockchainProject\obj\Debug\BlockchainProject.pdb
