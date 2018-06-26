@@ -113,9 +113,11 @@
   </ItemGroup>
   <ItemGroup>
     <Compile Include="BlockchainExplorer.cs" />
+    <Compile Include="CustomTransaction.cs" />
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
     <Compile Include="Token.cs" />
+    <Compile Include="TransactionInput.cs" />
   </ItemGroup>
   <ItemGroup>
     <None Include="App.config" />

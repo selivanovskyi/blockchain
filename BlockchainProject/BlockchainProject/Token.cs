@@ -10,13 +10,21 @@ namespace BlockchainProject.model
     class Token
     {
         public string Name;
-        public BigInteger Balance;
+        public decimal Balance;
+        public int DecimalPlaces;
+        public string Address;
         
-
-        public Token(string name, BigInteger balance)
+        public Token(string name, decimal balance)
         {
             Name = name;
             Balance = balance;
+        }
+
+        public Token(string name, string address, int decimalPlaces)
+        {
+            Name = name;
+            Address = address;
+            DecimalPlaces = decimalPlaces;
         }
     }
 }
